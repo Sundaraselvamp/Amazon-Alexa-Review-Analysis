@@ -1,0 +1,11 @@
+ipykernel
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+nltk
+scikit-learn
+transformers
+torch
+tqdm
